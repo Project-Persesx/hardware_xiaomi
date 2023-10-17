@@ -1,20 +1,12 @@
 <!--
-<<<<<<< HEAD
   Copyright (c) 2022-2023 Qualcomm Innovation Center, Inc. All rights reserved.
-=======
-  Copyright (c) 2022 Qualcomm Innovation Center, Inc. All rights reserved.
->>>>>>> 4f8c867 (healthd-ext: Rename hal to xiaomi to avoid compilation conflicts)
   SPDX-License-Identifier: BSD-3-Clause-Clear
 -->
 
 <manifest version="1.0" type="device">
     <hal format="aidl">
         <name>android.hardware.health</name>
-<<<<<<< HEAD
-        <version>3</version>
-=======
-        <version>1</version>
->>>>>>> 4f8c867 (healthd-ext: Rename hal to xiaomi to avoid compilation conflicts)
+        <version>2</version>
         <fqname>IHealth/default</fqname>
     </hal>
 </manifest>
